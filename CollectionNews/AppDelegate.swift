@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Tables_Collections
+//  CollectionNews
 //
 //  Created by Анастасия Рыбакова on 25.09.2023.
 //
